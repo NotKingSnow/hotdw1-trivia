@@ -65,7 +65,7 @@ q **Finish the quote: “Every time a Targaryen is born, the gods ______”**
 a "Flip a Coin", "Flip a Coin."
 
 q **In which season of Game of Thrones do House Targaryen’s house words appear as an episode title?**
-a 'Season One", "Season 1", "One", "1"
+a "Season One", "Season 1", "One", "1"
 
 q **Daenerys Targaryen acquired the Unsullied in which Essosi city?**
 a "Astapor"
