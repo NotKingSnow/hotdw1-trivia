@@ -55,7 +55,7 @@ a "Meraxes"
 q "**The Great Council of 101 AC was held at which castle?**"
 a "Harrenhal"
 
-q "**How many named Targaryens are alive during Season 1 of Game of Thrones?**"
+q "**How many Targaryens (excluding Jon Snow) are alive during Season 1 of Game of Thrones?**"
 a "Three", "3"
 
 q "**Jaehaerys I and his wife Alysanne had how many children?**"
@@ -162,8 +162,8 @@ a "Four", "4"
 q "**What Targaryen King was assassinated in Dorne?**"
 a "Daeron I Targaryen", "Daeron Targaryen", "Daeron"
 
-q "**In Game of Thrones, Shireen Baratheon references the Dance of the Dragons two characters. Name one!**"
-a "Davos Seaworth", "Stannis Baratheon", "Davos", "Stannis"
+q "**In Game of Thrones, Shireen Baratheon references the Dance of the Dragons to two characters. Name one!**"
+a "Davos Seaworth and Stannis Baratheon", "Davos Seaworth", "Stannis Baratheon", "Davos", "Stannis"
 
 q "**Cregan Stark’s tenure as Hand of the King to Aegon III is known as?**"
 a "The Hour of the Wolf", "Hour of the Wolf"
