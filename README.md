@@ -104,7 +104,7 @@ q **Driftmark is located in which Westerosi region?**
 a "The Crownlands", "Crownlands"
 
 q **Who was the first Targaryen to settle on Dragonstone?**
-a "Aenar Targaryen**, "Aenar"
+a "Aenar Targaryen", "Aenar"
 
 q **Who succeeded Harrold Westerling as Lord Commander of the Kingsguard?**
 a "Ser Criston Cole", "Criston Cole", "Criston"
@@ -148,7 +148,7 @@ q **The Dragonpit sits atop a hill in King’s Landing named for what Targaryen?
 a "Rhaenys", "Rhaenys Targaryen"
 
 q **What House was extinguished at the Field of Fire?**
-a "Houuse Gardener", "Gardener"
+a "House Gardener", "Gardener"
 
 q **Bloodraven’s true name is?**
 a "Brynden Rivers", "Brynden"
