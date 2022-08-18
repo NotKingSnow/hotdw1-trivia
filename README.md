@@ -120,11 +120,11 @@ a "Jaehaerys I Targaryen", "Jaehaerys I", "Jaehaerys", "Jaehaerys Targaryen"
 
 q "**Name the house!**"
 a "House Thorne", "Thorne"
-i "https://imgur.com/eZhnjJX"
+i "https://i.imgur.com/eZhnjJX"
 
 q "**Name the house!**"
 a "House Rykker", "Rykker"
-i "https://imgur.com/7rYwUdi"
+i "https://i.imgur.com/7rYwUdi"
 
 q "**Aerys II Targaryen was taken hostage in what town?**"
 a "Duskendale"
