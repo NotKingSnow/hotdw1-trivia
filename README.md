@@ -132,7 +132,7 @@ a "Duskendale"
 q "**Who rescued Aerys II during the Defiance of Duskendale?**"
 a "Barristan Selmy", "Barristan", "Ser Barristan", "Ser Barristan Selmy"
 
-q "**In Game of Thrones, who killed Ser Arthur Dayne at the Tower of Joy?**"
+q "**In Game of Thrones, who saves Ned Stark against Ser Arthur Dayne at the Tower of Joy?**"
 a "Howland Reed", "Howland"
 
 q "**Which Valyrian Steel Sword did Aegon the Conqueror wield?**"
